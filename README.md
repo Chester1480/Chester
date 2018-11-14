@@ -25,9 +25,8 @@ Thank you for watch my resume.
 <li>C# Enity framework
 </ul>
 
-# Other Experiences
+# Linux OS
 <ul>
-<li>Linux OS <br>
 <li>Centos <br>
 <li>Ubuntu <br>
 <li>Debian <br>
