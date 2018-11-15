@@ -1,5 +1,5 @@
 #  MyResume
-I'm 5 years senior web developer , and I'm start side project in 2018/09 .
+I'm 5 years web developer , and I'm start side project in 2018/09 .
 Thank you for watch my resume.
 # Programming Languages
 <ul>
