@@ -1,5 +1,3 @@
-I'm 5 years web developer , and I'm start side project in 2018/09 .
-Thank you for watch my resume.
 # Programming Languages
 <ul>
  <li>Java spring framework <br>
